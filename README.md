@@ -1,2 +1,2 @@
 # Buzzer
- Buzer Arduino
+ Buzzer Arduino
